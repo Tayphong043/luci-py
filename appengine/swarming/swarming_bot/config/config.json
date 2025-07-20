@@ -1,5 +1,0 @@
-{
-  "enable_ts_monitoring": false,
-  "server": "http://localhost:8080",
-  "server_version": "unused-to-be-deleted"
-}
